@@ -54,7 +54,7 @@ Throughout my journey, I've worked on various projects showcasing my expertise i
    * Analyzed 7,500+ Weibo comments using LDA for topic modeling, identifying 6 distinct conversation themes
    * Fine-tuned SnowNLP classifier on 60,000+ labeled comments for enhanced sentiment analysis
 
-* **Heart Disease Predictor**
+* **[Heart Disease Predictor](https://github.com/UBC-MDS/heart_disease_predictor_py)**
    * Prepared the heart disease dataset by handling missing values, encoding categorical variables, and normalizing numerical features.
    * Built and fine-tuned Logistic Regression, SVC, and Decision Tree models. Provided interpretable results.
    * Visualized feature coefficients and importances to reveal key predictors. Analyzed misclassified cases for insights into model weaknesses.
