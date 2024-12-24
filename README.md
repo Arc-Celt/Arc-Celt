@@ -2,7 +2,7 @@
 
 🎓 Master of Data Science at UBC | Bachelor of Arts in Communication at ZJU
 
-💻 Ex-Software QA Engineer @ Isvision | Aspiring Data Scientist
+💻 Ex-Software QA Engineer Intern @ Isvision | Aspiring Data Scientist
 
 🐱 Feel free to connect with me!
 
