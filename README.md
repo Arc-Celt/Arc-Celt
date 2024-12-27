@@ -1,6 +1,6 @@
 ## Hi! I'm Archer. Welcome to my GitHub page! 👋 
 
-🎓 Master of Data Science at UBC | Bachelor of Arts in Communication at ZJU
+🎓 Master of Data Science UBC '25 | ZJU '24
 
 💻 Ex-Software QA Engineer Intern @ Isvision | Aspiring Data Scientist
 
