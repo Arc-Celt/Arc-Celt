@@ -7,7 +7,7 @@
 🐱 Feel free to connect with me!
 
 <a href="https://www.linkedin.com/in/archer-liu-b31b69200/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://x.com/celt_313"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://x.com/celt_313"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>
 <a href="mailto:arccelt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ## ⚙️ Technical Skills
@@ -25,10 +25,12 @@
 
 ### Data Science & Machine Learning
 
-<a><img src="https://camo.githubusercontent.com/cdd90873ca81a229e16a9dc410679c9a5ac378e21d15cff4dd4fb018cff67f72/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50616e6461732d3135303435383f7374796c653d666f722d7468652d6261646765266c6f676f3d70616e646173266c6f676f436f6c6f723d7768697465"></a>
-<a><img src="https://camo.githubusercontent.com/ab6eaaa37532fcc9ee8f925d6ac99f02c679ce3885ac7ba17c7b3205daf3287d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e756d50792d3031333234333f7374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465"></a>
-<a><img src="https://camo.githubusercontent.com/c8fa4fae8348bf60d33dd983402a38ea60491f6142eb4aab00617154d16063d5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7363696b69742d2d6c6561726e2d4637393331453f7374796c653d666f722d7468652d6261646765266c6f676f3d7363696b69742d6c6561726e266c6f676f436f6c6f723d7768697465"></a>
-<a><img src="https://camo.githubusercontent.com/84ac50099af30158b00430657e176cb2538339ec20f622e9bdaca9bcdf22bc30/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5079546f7263682d4545344332433f7374796c653d666f722d7468652d6261646765266c6f676f3d5079546f726368266c6f676f436f6c6f723d7768697465"></a>
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 ### Dev tools
 
