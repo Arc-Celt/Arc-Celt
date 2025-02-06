@@ -59,8 +59,7 @@ Throughout my journey, I've worked on various projects showcasing my expertise i
 * **[Heart Disease Predictor](https://github.com/Arc-Celt/heart_disease_predictor_py)**
    * Prepared the heart disease dataset by handling missing values, encoding categorical variables, and normalizing numerical features.
    * Built and fine-tuned Logistic Regression, SVC, and Decision Tree models. Provided interpretable results.
-   * Visualized feature coefficients and importances to reveal key predictors. Analyzed misclassified cases for insights into model weaknesses.
-   * Abstracted code into reusable functions, implemented corresponding tests. Wrote a Makefile to automate and streamline the execution of all scripts in sequence, enhancing project reproducibility.
+   * Visualized feature coefficients and importances to reveal key predictors, and wrote a reproducible report.
 
 ### 💻 Quality Assurance Testing
 * *Software QA Engineer Intern at Isvision Technology*
@@ -68,12 +67,7 @@ Throughout my journey, I've worked on various projects showcasing my expertise i
    * Developed comprehensive testing suites for precision chart validation
    * Automated 400+ backend API tests for UserManager system
 
-### 🎮 Software & Game Development
-* *Software QA Engineer Intern at Isvision Technology*
-   * Developed Go-based simulator generating random deviations for accuracy testing
-   * Implemented complex data processing and conversion algorithms
-   * Created DMO file output system for measurement analysis
-
+### 🎮 Game Development
 * **Multi-mode Snake Game**
    * Developed classic game in C/C++ with EGE graphics library
    * Implemented advanced food spawning algorithms and wall-piercing mechanisms
