@@ -44,31 +44,3 @@
 <a><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white"></a>
 <a><img src="https://camo.githubusercontent.com/290adf073f914b508453306d92f6195aba0c59357cf5a77c007223b3353da0c1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a7570797465722d4633373632363f7374796c653d666f722d7468652d6261646765266c6f676f3d6a757079746572266c6f676f436f6c6f723d7768697465"></a>
-
-
-## 🛠️ Featured Projects & Experiences
-
-Throughout my journey, I've worked on various projects showcasing my expertise in data science, software development, and quality assurance:
-
-### 📈 Data Science & Machine Learning
-* **Topic Modeling and Sentiment Analysis of Social Media**
-   * Implemented data scraping and cleaning using Python's requests library and Bag-of-Words encoding
-   * Analyzed 7,500+ Weibo comments using LDA for topic modeling, identifying 6 distinct conversation themes
-   * Fine-tuned SnowNLP classifier on 60,000+ labeled comments for enhanced sentiment analysis
-
-* **[Heart Disease Predictor](https://github.com/Arc-Celt/heart_disease_predictor_py)**
-   * Prepared the heart disease dataset by handling missing values, encoding categorical variables, and normalizing numerical features.
-   * Built and fine-tuned Logistic Regression, SVC, and Decision Tree models. Provided interpretable results.
-   * Visualized feature coefficients and importances to reveal key predictors, and wrote a reproducible report.
-
-### 💻 Quality Assurance Testing
-* *Software QA Engineer Intern at Isvision Technology*
-   * Spearheaded Web UI test automation covering 11 pivotal modules for automotive manufacturing
-   * Developed comprehensive testing suites for precision chart validation
-   * Automated 400+ backend API tests for UserManager system
-
-### 🎮 Game Development
-* **Multi-mode Snake Game**
-   * Developed classic game in C/C++ with EGE graphics library
-   * Implemented advanced food spawning algorithms and wall-piercing mechanisms
-   * Created 3 innovative gameplay modes enhancing user experience
