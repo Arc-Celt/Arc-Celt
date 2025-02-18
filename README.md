@@ -46,3 +46,15 @@
 <a><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white"></a>
 <a><img src="https://camo.githubusercontent.com/290adf073f914b508453306d92f6195aba0c59357cf5a77c007223b3353da0c1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a7570797465722d4633373632363f7374796c653d666f722d7468652d6261646765266c6f676f3d6a757079746572266c6f676f436f6c6f723d7768697465"></a>
+
+---
+
+## 👻 Fun facts about me
+
+**My life path:** Chem, Bio & Geo → Advertising → QA Engineer → Data Science & ML → Try everything! 🚀
+
+I love <s>testing my kitchen's fire alarm</s> cooking and experimenting with new recipes! 🔥
+
+My favorite animal is the wolf for its wild spirit and lifelong commitment to freedom. 🐺
+
+My favorite flower is the sunflower for its resilience, forever seeking the light. 🌻
