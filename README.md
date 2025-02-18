@@ -51,9 +51,9 @@
 
 ## 👻 Fun facts about me
 
-**My life path:** Chem, Bio & Geo → Advertising → QA Engineer → Data Science & ML → Try everything! 🚀
+**My life path:** Chem, Bio & Geo → Advertising → QA Engineer → Data Science & ML → ... 🚀
 
-I love <s>testing my kitchen's fire alarm</s> cooking and experimenting with new recipes! 🔥
+I love <s>testing my kitchen's fire alarm</s> cooking and experimenting with new recipes. 🔥
 
 My favorite animal is the wolf for its wild spirit and lifelong commitment to freedom. 🐺
 
