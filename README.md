@@ -10,6 +10,8 @@
 <a href="https://x.com/celt_313"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>
 <a href="mailto:arccelt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
+---
+
 ## ⚙️ Technical Skills
 
 ### Languages
@@ -51,7 +53,7 @@
 
 ## 👻 Fun facts about me
 
-**My life path:** Chem, Bio & Geo → Advertising → QA Engineer → Data Science & ML → ... 🚀
+**My life path:** Chem, Bio & Geo → Advertising → CS, DS & ML → ... 🚀
 
 I love <s>testing my kitchen's fire alarm</s> cooking and experimenting with new recipes. 🔥
 
