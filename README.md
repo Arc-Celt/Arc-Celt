@@ -4,6 +4,8 @@
 
 💻 Ex-Software QA Engineer Intern @ Isvision | Aspiring Data Scientist
 
+🌐 My personal portfolio: https://archerliu.netlify.app/
+
 🐱 Feel free to connect with me!
 
 <a href="https://www.linkedin.com/in/archer-liu-b31b69200/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
