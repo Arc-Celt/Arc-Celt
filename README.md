@@ -55,10 +55,8 @@
 
 ## 👻 Fun facts about me
 
-**My life path:** Chem, Bio & Geo → Advertising → CS, DS & ML → ... 🚀
+I started primary school before the age of 6 (technically illegal, but in the name of early learning passion😹).
 
-I love <s>testing my kitchen's fire alarm</s> cooking and experimenting with new recipes. 🔥
+In the past 5 years, I've explored 4 fields: 🥼 Chem & Bio → 🛍️ Advertising → 🛠️ Software QA → 📈 DS & ML.
 
-My favorite animal is the wolf for its wild spirit and lifelong commitment to freedom. 🐺
-
-My favorite flower is the sunflower for its resilience, forever seeking the light. 🌻
+In my free time, you'll find me <s>testing my kitchen's fire alarm</s> trying new recipes or playing video games. 🎮
