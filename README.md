@@ -2,8 +2,6 @@
 
 🎓 Master of Data Science UBC '25 | ZJU '24
 
-💻 Ex-Software QA Engineer Intern @ Isvision | Aspiring Data Scientist
-
 🌐 My personal portfolio: https://archerliu.netlify.app/
 
 🐱 Feel free to connect with me!
