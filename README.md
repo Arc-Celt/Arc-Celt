@@ -55,6 +55,6 @@
 
 I started primary school before the age of 6 (technically illegal, but in the name of early learning passion😹).
 
-In the past 5 years, I've explored 4 fields: 🥼 Chem & Bio → 🛍️ Advertising → 🛠️ Software QA → 📈 DS & ML.
+In the past 5 years, I've explored 4 fields: 🛍️ Advertising → 🛠️ Software Dev → 📈 DS & ML → 🎓 AI in Business Research.
 
 In my free time, you'll find me <s>testing my kitchen's fire alarm</s> trying new recipes or playing video games. 🎮
