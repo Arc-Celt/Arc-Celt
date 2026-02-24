@@ -1,6 +1,6 @@
 ## Hi! I'm Archer. Welcome to my GitHub page! 👋 
 
-🎓 Master of Data Science UBC '25 | ZJU '24
+🎓 Incoming MIS PhD @ UBC | UBC MDS ’25 | ZJU ’24
 
 🌐 My personal portfolio: https://archerliu.netlify.app/
 
