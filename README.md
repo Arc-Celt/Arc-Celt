@@ -23,7 +23,6 @@
 <a><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></a>
-<a><img src="https://camo.githubusercontent.com/dd15cb12ec545d427d774c1803ed20fc8d77672f4e015d77a4e481864df66885/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53514c2d3434373941313f7374796c653d666f722d7468652d6261646765266c6f676f3d616d617a6f6e2d64796e616d6f6462266c6f676f436f6c6f723d7768697465"></a>
 
 ### Data Science & Machine Learning
 
@@ -47,7 +46,6 @@
 <a><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white"></a>
-<a><img src="https://camo.githubusercontent.com/290adf073f914b508453306d92f6195aba0c59357cf5a77c007223b3353da0c1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a7570797465722d4633373632363f7374796c653d666f722d7468652d6261646765266c6f676f3d6a757079746572266c6f676f436f6c6f723d7768697465"></a>
 
 ---
 
